@@ -1,0 +1,35 @@
+{
+  "include": [
+    "../**/*.ts",
+    "../**/*.d.ts",
+    "../**/*.tsx",
+    "../**/*.vue",
+    "./**/*.ts",
+    "./**/*.d.ts",
+    "./**/*.tsx",
+    "./**/*.vue",
+    "./node_modules/vite/client.d.ts"
+  ],
+  "compilerOptions": {
+    "target": "es2018",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "strict": true,
+    "module": "preserve",
+    "moduleResolution": "bundler",
+    "jsx": "preserve",
+    "jsxImportSource": "vue",
+    "allowJs": true,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "lib": [
+      "ES2024",
+      "dom"
+    ]
+  }
+}

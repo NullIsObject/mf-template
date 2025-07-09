@@ -1,0 +1,7 @@
+{
+  "name": "@mf-template/common",
+  "version": "0.0.0",
+  "devDependencies": {
+    "consola": "^3.4.2"
+  }
+}
