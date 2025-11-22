@@ -26,10 +26,6 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "resolveJsonModule": true,
-    "baseUrl": ".",
-    "lib": [
-      "ES2024",
-      "dom"
-    ]
+    "lib": ["ES2024", "dom"]
   }
 }

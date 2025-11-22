@@ -1,0 +1,10 @@
+{
+  "printWidth": 120,
+  "singleQuote": false,
+  "vueIndentScriptAndStyle": false,
+  "attributePerLine": false,
+  "singleAttributePerLine": true,
+  "semi": false,
+  "arrowParens": "avoid",
+  "tabWidth": 2
+}
